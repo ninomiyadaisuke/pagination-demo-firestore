@@ -1,0 +1,19 @@
+.table-row {
+  background-color: white;
+  width: 60%;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  margin-top: 10px;
+  border-radius: 5px;
+  display: flex;
+}
+
+.table-row > span {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  padding-left: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
